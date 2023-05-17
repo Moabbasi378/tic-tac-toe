@@ -37,7 +37,7 @@
 }
 
 .Cell {
-  transition: background-color 0.3s;
+  transition: 0.3s;
 }
 
 .Cell:hover {
